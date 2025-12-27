@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+:root {
+    color-scheme: light dark;
+
+    font-synthesis: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+@theme {
+    --font-sans: 'DM Sans Variable', sans-serif;
+}
+
+@layer base {
+    body {
+        @apply min-h-dvh bg-gray-200 font-sans text-base text-gray-900;
+    }
+}
