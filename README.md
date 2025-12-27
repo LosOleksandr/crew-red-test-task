@@ -13,13 +13,13 @@ This project is a component library built with React, TypeScript, and Tailwind C
 2.  **Run the development server:**
 
     ```bash
-    npm run dev
+    bun run dev
     ```
 
 3.  **Run Storybook:**
 
     ```bash
-    npm run storybook
+    bun run storybook
     ```
 
 ## Component Overview
