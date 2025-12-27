@@ -1,4 +1,4 @@
-# Code Red Test Task
+# Crew Red Test Task
 
 This project is a component library built with React, TypeScript, and Tailwind CSS. It uses Storybook for component development and testing.
 
